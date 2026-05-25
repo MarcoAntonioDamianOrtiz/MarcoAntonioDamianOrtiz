@@ -113,35 +113,26 @@ Egresado TSU en Desarrollo de Software • Edad 20 años
 
 ---
 
-
-# 📊 GitHub Stats
-
-### ⭐ Commits ⭐
+# 📊 GitHub Statistics ⭐
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=MarcoAntonioDamianOrtiz&theme=tokyonight&hide_border=true&locale=es"/>
+  <img src="https://streak-stats.demolab.com?user=MarcoAntonioDamianOrtiz&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
 </p>
 
 ---
 
-### ⭐ GitHub Statistics ⭐
+# ⭐ Most Used Languages ⭐
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MarcoAntonioDamianOrtiz&theme=tokyonight&utcOffset=-6"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
-</p>
-
----
-
-### ⭐ Most Used Languages ⭐
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcoAntonioDamianOrtiz&theme=tokyonight"/>
 </p>
 
 ---
@@ -188,7 +179,7 @@ Egresado TSU en Desarrollo de Software • Edad 20 años
 
 ---
 
-# ✨ Frase Motivacional
+# ✨ Quote
 
 > "El software no solo resuelve problemas, también crea oportunidades."
 
