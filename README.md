@@ -207,15 +207,15 @@ Plataforma enfocada en monitoreo geográfico y gestión de ubicaciones.
 
 ---
 
-# 🎯 Areas of Interest
+# 🎯 Áreas de Interés
 
-- Full Stack Development
-- Mobile Development
-- Cloud Computing
-- Software Architecture
-- Artificial Intelligence
-- UX/UI Design
-- GIS & Geolocation Systems
+- 💻 Desarrollo Full Stack
+- 📱 Desarrollo de Aplicaciones Móviles
+- ☁️ Computación en la Nube (Cloud Computing)
+- 🏗️ Arquitectura de Software
+- 🤖 Inteligencia Artificial
+- 🎨 Diseño UX/UI
+- 🗺️ Sistemas GIS y Geolocalización
 
 ---
 
