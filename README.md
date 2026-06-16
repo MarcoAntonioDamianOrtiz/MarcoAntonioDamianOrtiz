@@ -152,22 +152,6 @@ Soy estudiante de Ingeniería en Gestión y Desarrollo de Software en la UTT Tla
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcoAntonioDamianOrtiz&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcoAntonioDamianOrtiz&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # ☕ Featured Projects
 
 ## ☕ Smart Cafeteria System
@@ -207,15 +191,16 @@ Plataforma enfocada en monitoreo geográfico y gestión de ubicaciones.
 
 ---
 
-# 🎯 Áreas de Interés
+# 🎯 Areas of Interest
 
 - 💻 Desarrollo Full Stack
 - 📱 Desarrollo de Aplicaciones Móviles
 - ☁️ Computación en la Nube (Cloud Computing)
 - 🏗️ Arquitectura de Software
-- 🤖 Inteligencia Artificial
+- 🤖 Inteligencia Artificial y Automatización
 - 🎨 Diseño UX/UI
-- 🗺️ Sistemas GIS y Geolocalización
+- 🗺️ Sistemas de Información Geográfica (GIS)
+- 📍 Geolocalización y Mapas Interactivos
 
 ---
 
